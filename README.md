@@ -1,7 +1,7 @@
 РАЗРАБОТКА МЕССЕНДЖЕРА С ИНТЕЛЛЕКТУАЛЬНЫМ ОБУЧЕНИЕМ АНГЛИЙСКОМУ ЯЗЫКУ
 Цель работы : разработать приложение мессенджера для отправки текстовых сообщений с возможностью интеллектуального обучения английскому языку.
 
-[image](https://github.com/imm1337/TestAltair/blob/main/pc-keller-hedgehog.jpg)
+![image](https://github.com/imm1337/TestAltair/blob/main/pc-keller-hedgehog.jpg)
 
 {Гипотеза если есть}
 
